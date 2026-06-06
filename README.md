@@ -140,5 +140,3 @@ pytest tests/ -v
 `Streamlit` · `Plotly` · `joblib` · `pytest`
 
 ---
-
-*Built to demonstrate AML/KYC domain knowledge and data analysis capability for financial services roles.*
