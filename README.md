@@ -1,6 +1,5 @@
 # KYC Risk Scoring & AML Transaction Monitoring System
 
-> **Targeted at:** JPMorgan Chase Data Analyst / Analyst Quality Assurance roles  
 > **Domain:** Anti-Money Laundering · Know Your Customer · Operational Risk  
 > **Stack:** Python · scikit-learn · SQLite · Streamlit · Plotly · Pytest
 
